@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <!--
+    Each <plugin> element (required) describes one plugin in the repository.
+    Attributes:
+     - "id" (required) - used by JetBrains IDEs to uniquely identify a plugin.
+       Must match <id> in the plugin.xml file.
+     - "url" (required) - URL to download the plugin JAR/ZIP file. Must be HTTPS.
+     - "version" (required) - version of this plugin. Must match <version>
+       in the plugin.xml file.
+    -->
+
+    <!-- NOTE: The plugin ZIP file can *NOT* have `'` (single quote) in the file name, so you need to rename it and update below. -->
+    <plugin
+            id="com.chriscarini.jetbrains.loc-change-count-detector-jetbrains-plugin"
+            url="file:/PATH_TO_REPLACE/loc-change-count-detector-jetbrains-plugin/build/distributions/CORRECT_PLUGIN_FILENAME"
+            version="LOC_VERSION_TO_REPLACE">
+        <!-- The <idea-version> element (required) must match the same element in the plugin.xml file. -->
+        <idea-version since-build="221.5080" until-build="221.*"/>
+    </plugin>
+</plugins>
