@@ -1,0 +1,13 @@
+<idea-plugin>
+    <id>com.chriscarini.jetbrains.example-loc-configuration-plugin</id>
+    <name>Example LoC Configuration</name>
+    <vendor email="jetbrains@chriscarini.com" url="https://jetbrains.chriscarini.com">Chris Carini</vendor>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <depends optional="true" config-file="loc-cop-support.xml">
+        com.chriscarini.jetbrains.loc-change-count-detector-jetbrains-plugin
+    </depends>
+</idea-plugin>
