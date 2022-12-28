@@ -16,6 +16,6 @@
             url="file:/PATH_TO_REPLACE/loc-change-count-detector-jetbrains-plugin/build/distributions/CORRECT_PLUGIN_FILENAME"
             version="LOC_VERSION_TO_REPLACE">
         <!-- The <idea-version> element (required) must match the same element in the plugin.xml file. -->
-        <idea-version since-build="221.5080" until-build="221.*"/>
+        <idea-version since-build="223.7571" until-build="223.*" />
     </plugin>
 </plugins>
