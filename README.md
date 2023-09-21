@@ -1,6 +1,7 @@
 # example-loc-plugin-config-plugin
 
 [![GitHub License](https://img.shields.io/github/license/ChrisCarini/example-loc-plugin-config-plugin?style=flat-square)](https://github.com/ChrisCarini/example-loc-plugin-config-plugin/blob/main/LICENSE)
+[![All Contributors](https://img.shields.io/github/all-contributors/ChrisCarini/example-loc-plugin-config-plugin?color=ee8449&style=flat-square)](#contributors)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ChrisCarini/example-loc-plugin-config-plugin/build.yml?branch=main&logo=GitHub&style=flat-square)](https://github.com/ChrisCarini/example-loc-plugin-config-plugin/actions/workflows/build.yml)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ChrisCarini/example-loc-plugin-config-plugin/compatibility.yml?branch=main&label=IntelliJ%20Plugin%20Compatibility&logo=GitHub&style=flat-square)](https://github.com/ChrisCarini/example-loc-plugin-config-plugin/actions/workflows/compatibility.yml)
 
@@ -27,3 +28,13 @@ plugins/
     └── settings.gradle
 ```
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
