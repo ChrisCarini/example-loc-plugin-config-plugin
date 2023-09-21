@@ -33,6 +33,13 @@ plugins/
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/bansalsulabh"><img src="https://avatars.githubusercontent.com/u/7255818?v=4?s=100" width="100px;" alt="bansalsulabh"/><br /><sub><b>bansalsulabh</b></sub></a><br /><a href="#ideas-bansalsulabh" title="Ideas, Planning, & Feedback">🤔</a> <a href="#review-bansalsulabh" title="Reviewed Pull Requests">👀</a> <a href="#userTesting-bansalsulabh" title="User Testing">📓</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
