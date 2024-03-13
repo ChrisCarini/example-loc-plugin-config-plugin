@@ -7,7 +7,6 @@
 ### Added
 
 ### Changed
-- Upgrading IntelliJ from 2023.3.4 to 2023.3.5
 
 ### Deprecated
 
@@ -16,6 +15,11 @@
 ### Fixed
 
 ### Security
+
+## [0.4.5] - 2024-03-13
+
+### Changed
+- Upgrading IntelliJ from 2023.3.4 to 2023.3.5
 
 ## [0.4.4] - 2024-02-14
 
@@ -133,7 +137,8 @@
 ### Added
 - Initial Revision. Configure LoC plugin with some sample values.
 
-[Unreleased]: https://github.com/ChrisCarini/example-loc-plugin-config-plugin/compare/v0.4.4...HEAD
+[Unreleased]: https://github.com/ChrisCarini/example-loc-plugin-config-plugin/compare/v0.4.5...HEAD
+[0.4.5]: https://github.com/ChrisCarini/example-loc-plugin-config-plugin/compare/v0.4.4...v0.4.5
 [0.4.4]: https://github.com/ChrisCarini/example-loc-plugin-config-plugin/compare/v0.4.3...v0.4.4
 [0.4.3]: https://github.com/ChrisCarini/example-loc-plugin-config-plugin/compare/v0.4.2...v0.4.3
 [0.4.2]: https://github.com/ChrisCarini/example-loc-plugin-config-plugin/compare/v0.4.1...v0.4.2
