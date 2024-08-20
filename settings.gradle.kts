@@ -1,1 +1,1 @@
-rootProject.name = 'example-loc-plugin-config-plugin'
+rootProject.name = "example-loc-plugin-config-plugin"
