@@ -19,13 +19,13 @@ This plugin assumes that you have a local checkout of [ChrisCarini/loc-change-co
 ```bash
 plugins/
 ├── example-loc-plugin-config-plugin
-│   ├── build.gradle
+│   ├── build.gradle.kts
 │   ├── ...
-│   └── settings.gradle
+│   └── settings.gradle.kts.kts
 └── loc-change-count-detector-jetbrains-plugin
-    ├── build.gradle
+    ├── build.gradle.kts
     ├── ...
-    └── settings.gradle
+    └── settings.gradle.kts.kts
 ```
 
 ## Contributors
