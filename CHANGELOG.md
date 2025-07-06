@@ -7,8 +7,6 @@
 ### Added
 
 ### Changed
-- Upgrading IntelliJ from 2025.1.1 to 2025.1.2
-- Upgrading IntelliJ from 2025.1 to 2025.1.1
 
 ### Deprecated
 
@@ -17,6 +15,13 @@
 ### Fixed
 
 ### Security
+
+## [2.0.1] - 2025-07-06
+
+### Changed
+
+- Upgrading IntelliJ from 2025.1.1 to 2025.1.2
+- Upgrading IntelliJ from 2025.1 to 2025.1.1
 
 ## [2.0.0] - 2025-04-17
 
@@ -296,7 +301,8 @@
 
 - Initial Revision. Configure LoC plugin with some sample values.
 
-[Unreleased]: https://github.com/ChrisCarini/example-loc-plugin-config-plugin/compare/v2.0.0...HEAD
+[Unreleased]: https://github.com/ChrisCarini/example-loc-plugin-config-plugin/compare/v2.0.1...HEAD
+[2.0.1]: https://github.com/ChrisCarini/example-loc-plugin-config-plugin/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/ChrisCarini/example-loc-plugin-config-plugin/compare/v1.2.8...v2.0.0
 [1.2.8]: https://github.com/ChrisCarini/example-loc-plugin-config-plugin/compare/v1.2.7...v1.2.8
 [1.2.7]: https://github.com/ChrisCarini/example-loc-plugin-config-plugin/compare/v1.2.6...v1.2.7
